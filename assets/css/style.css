@@ -1,5 +1,8 @@
-body * {
-    
+body *  {
+
+    margin: 0%;
+    padding: 0%;
+   
 }
 
 #nav-section img {
@@ -8,15 +11,30 @@ body * {
 #nav-section {
     background-color:  #49adb5!important;
 }
+#carousel-section {
+    background-color: #000;
+}
+
+#about-section {
+    background-color: #000;
+}
+.about {
+    background-color: #49adb5;
+}
 
 #card-section .card {
     margin: auto;
 }
 
-#card-section .col {
-   
+#card-section {
+   background-color: #000;
 }
-
+.card-body {
+    background-color:  #49adb5!important;
+}
+#form-section {
+    background-color: #000;
+}
 
 footer {
     background-color:  #49adb5 ;
