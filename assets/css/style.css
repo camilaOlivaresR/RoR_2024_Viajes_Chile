@@ -17,23 +17,37 @@ body *  {
 
 #about-section {
     background-color: #000;
+    margin: auto;
+   
+   
+}
+#about-container{
+margin-top: 30px;
 }
 .about {
     background-color: #49adb5;
+    size: 20rem;
+    margin-top: 20px;
 }
 
 #card-section .card {
     margin: auto;
+    height: 25rem;;
 }
 
 #card-section {
    background-color: #000;
+  
 }
 .card-body {
     background-color:  #49adb5!important;
 }
 #form-section {
     background-color: #000;
+   
+}
+#button-color{
+    background-color: #49adb5;
 }
 
 footer {
