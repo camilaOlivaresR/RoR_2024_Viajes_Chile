@@ -1,6 +1,7 @@
 body *  {
    margin: 0%;
-    padding: 0%;   
+    padding: 0%;
+    background-color: #000;   
 }
 
 #nav-section img {
@@ -10,20 +11,18 @@ body *  {
     background-color:  #49adb5!important;
 }
 #carousel-section {
-    background-color: #000;
+    /* background-color: #000; */
 }
 
 #about-section {
-    background-color: #000;
+    /* background-color: #000; */
     margin: auto;
-   
-   
 }
 #about-container{
 margin-top: 30px;
 }
 .about {
-    background-color: #49adb5;
+    background-color: #49adb5!important;
     size: 20rem;
     margin-top: 20px;
 }
@@ -35,13 +34,12 @@ margin-top: 30px;
 
 #card-section {
    background-color: #000;
-  
 }
 .card-body {
     background-color:  #49adb5!important;
 }
 #form-section {
-    background-color: #000;
+    /* background-color: #000; */
    
 }
 #button-color{
